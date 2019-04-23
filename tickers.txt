@@ -1,0 +1,6 @@
+CSCO@Cisco Systems, Inc.
+SOLO@Electrameccanica Vehicles Corp.
+CTL@CenturyLink, Inc.
+YELP@Yelp Inc.
+NTAP@NetApp, Inc.
+NVDA@NVIDIA Corporation
